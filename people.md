@@ -13,7 +13,7 @@ We're a small team of researchers in the [Department of Linguistics](http://www.
 
         <figure class="figure">
                 <img src='../images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
-                <figcaption><strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
+                <figcaption><strong><a href="{{ author.url }}">{{ author.title }}</a></strong>
                 <br> {{ author.position }} </figcaption>
         </figure> 
 
