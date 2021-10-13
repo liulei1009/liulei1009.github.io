@@ -7,9 +7,9 @@ layout: page
 
 We're a small team of researchers in the [Department of Linguistics](http://www.ling.upenn.edu/) at the University of Pennsylvania.  We're proud members of [mindCORE](https://mindcore.sas.upenn.edu/) (Penn's hub for the integrative study of the mind), the [Penn Child Development Labs](http://web.sas.upenn.edu/pennchilddevelopmentlabs/), and the [Social and Cultural Evolution Working Group](https://www.sas.upenn.edu/scew/members.html) at Penn.
 
-<ul >
+<ulstyle="display:flex" >
 {% for author in site.authors %}
-        <li style="display:inline">
+        <li >
 
         <figure class="figure">
                 <img src='../images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
