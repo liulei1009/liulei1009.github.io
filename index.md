@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Home"
+title: ""
+layout: page
 ---
 
 <h3 align="center">The Child Language Lab</h3>
