@@ -32,4 +32,4 @@ We're a small team of researchers in the [Department of Linguistics](http://www.
 
 **Graduate students**: Prospective graduate students should email Katie and apply to the [Linguistics program at the University of Pennsylvania](http://www.ling.upenn.edu/graduate/).  Applications are due in early December.
 
-**Undergraduates**: Penn students interested in working in the lab during the Academic year should email Katie to express interest. We are not accepting new students in Spring or Summer 2021. Check back in Fall 2021 for openings. 
+**Undergraduates**: Penn students interested in working in the lab during the Academic year should email Katie to express interest. 
