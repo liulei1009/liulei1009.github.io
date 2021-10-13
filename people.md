@@ -7,15 +7,16 @@ layout: page
 
 We're a small team of researchers in the [Department of Linguistics](http://www.ling.upenn.edu/) at the University of Pennsylvania.  We're proud members of [mindCORE](https://mindcore.sas.upenn.edu/) (Penn's hub for the integrative study of the mind), the [Penn Child Development Labs](http://web.sas.upenn.edu/pennchilddevelopmentlabs/), and the [Social and Cultural Evolution Working Group](https://www.sas.upenn.edu/scew/members.html) at Penn.
 
-<ul style="display:inline">
+<ul >
 {% for author in site.authors %}
+        <li style="display:inline">
 
         <figure class="figure">
                 <img src='../images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
                 <figcaption><strong><a href="{{ author.url }}">{{ author.title }}</a></strong>
                 <br> {{ author.position }} </figcaption>
         </figure> 
-
+        </li>
 {% endfor %}
 </ul>
 
