@@ -1,6 +1,6 @@
 ---
+title: Kathryn Schuler
 short_name: katie
-name: Kathryn Schuler
 position: PI, Assistant Professor
 layout: page
 ---
