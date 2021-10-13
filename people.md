@@ -10,13 +10,13 @@ We're a small team of researchers in the [Department of Linguistics](http://www.
 <ul class="list-unstyled list-inline text-center">
 
 {% for author in site.authors %}
-<li>
+
         <figure class="figure">
                 <img src='../images/{{ author.short_name }}.png' alt='{{ author.short_name }}' /> 
                 <figcaption><strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
                 <br> {{ author.position }} </figcaption>
         </figure> 
-</li>
+
 {% endfor %}
 </ul>
 
