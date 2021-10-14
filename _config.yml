@@ -24,6 +24,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 collections:
   authors:
     output: true
+    
+# categories for authors page
+categories-order:
+ - Paper
+ - Grant
+ - Talk
+ - Poster
+ - News
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
