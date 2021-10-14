@@ -4,7 +4,7 @@ layout: default
 ---
 
 {% if site.show_excerpts %}
-  {% include home.html %}
+  {% include home.html title="Research" %}
 {% else %}
   {% include archive.html title="Research" %}
 {% endif %}
