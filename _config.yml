@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "participate.md", title: "Participate"}
   - {file: "resources.md", title: "Resources"}
+  - {file: "outreach.md", title: "Outreach"}
 
 # collections
 collections:
