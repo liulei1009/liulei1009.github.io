@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: page # gridlay
+layout: page
 ---
 
 
