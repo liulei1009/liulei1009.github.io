@@ -22,7 +22,7 @@ We like to analyze data in Jupyter notebooks via [JupyterLab](https://jupyterlab
 - [How to customize the jupyter/datascience-notebook container](https://www.youtube.com/watch?v=UXxUcZDSNwA&feature=youtu.be&ab_channel=KathrynSchuler)
 
 
-## Full List of publications
+### Full List of publications
 
 {% for publi in site.data.publist %}
 
