@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "participate.md", title: "Participate"}
   - {file: "resources.md", title: "Resources"}
-  - {file: "./LeiLiu_CV.pdf", title: "CV"}
+#   - {file: "./LeiLiu_CV.pdf", title: "CV"}
 
 # collections
 collections:
