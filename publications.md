@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: "/publications/"
-layout: page
+layout: gridlay
 ---
 
 Sharing knowledge is important to us, so we've linked some resources to help you learn how we do things in our lab. Feel free to borrow or adapt anything you like. 
