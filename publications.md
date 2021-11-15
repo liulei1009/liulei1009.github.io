@@ -21,3 +21,12 @@ We like to analyze data in Jupyter notebooks via [JupyterLab](https://jupyterlab
 - [How to analyze data with the jupyter/datascience-notebook](2021-01-09-datascience-container)
 - [How to customize the jupyter/datascience-notebook container](https://www.youtube.com/watch?v=UXxUcZDSNwA&feature=youtu.be&ab_channel=KathrynSchuler)
 
+
+## Full List of publications
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
