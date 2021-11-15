@@ -16,12 +16,12 @@ show_social: true          # show site description and social links in the foote
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "LeiLiu_CV.pdf", title: "CV", icon: home}
   - {file: "index.md"}
   - {file: "people.md", title: "People"}
   - {file: "research.md", title: "Research"}
   - {file: "participate.md", title: "Participate"}
   - {file: "resources.md", title: "Resources"}
+  - {file: "./LeiLiu_CV.pdf", title: "CV"}
 
 # collections
 collections:
