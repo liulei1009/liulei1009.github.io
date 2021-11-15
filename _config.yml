@@ -15,12 +15,12 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "LeiLiu_CV.pdf", title: "CV", icon: home}
   - {file: "index.md"}
   - {file: "people.md", title: "People"}
   - {file: "research.md", title: "Research"}
   - {file: "participate.md", title: "Participate"}
   - {file: "resources.md", title: "Resources"}
-  - {file: "LeiLiu_CV.pdf", title: "CV", icon: home}
 
 # collections
 collections:
