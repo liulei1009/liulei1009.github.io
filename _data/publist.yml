@@ -8,23 +8,23 @@
   highlight: 1
   news2: QQQ
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+- title: "Forecasting Global Ionospheric TEC Using Deep Learning Approach"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: The developed model also shows competitive performance in predicting global TEC when compared to the persistence model and two empirical models (IRI-2016 and NeQuick-2).
+  authors: Lei Liu, Shasha Zou, Yibin Yao, Zihan Wang
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020SW002501
+    display: Space Weather (2020)
   highlight: 0
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+- title: "Multi-scale ionosphere responses to the May 2017 magnetic storm over the Asian sector"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: We investigate multi-scale ionospheric responses to the May 27, 2017, geomagnetic storm over the Asian sector by using multi-instrumental observations, including ground-based global navigation satellite systems (GNSS) network, constellation observing system for meteorology, ionosphere and climate radio occultation, the FengYun-3C (FY-3C) GNSS occultation sounder electron density profiles and in situ plasma density observations provided by both Swarm and defense meteorological satellite program missions.
+  authors: Lei Liu, Shasha Zou, Yibin Yao, Ercha Aa 
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    url: https://link.springer.com/article/10.1007%2Fs10291-019-0940-1
+    display: GPS Solutions (2020)
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
