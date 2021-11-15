@@ -3,7 +3,7 @@ title: ""
 layout: page
 ---
 
-We are a research lab at the University of Pennsylvania, studying how children learn languages. We're especially interested in why children seem to be better at language learning than adults are.  We want to find out whether there is something different about the way children learn or the way their brains are organized that makes language learning come naturally to them.
+Lei Liu a Post-Doc Research Associate for the Satellite Navigation and Sensing Laboratory at the University of Colorado Boulder. He received his Ph.D. in Geodesy and Geomatics from Wuhan University China in 2020. His current research interests are GNSS ionospheric monitoring, modeling, and forecasting of ionospheric TEC and irregularities using machine learning.
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
   <p align="center"><strong><a href="participate">Participate in a study</a></strong>  
