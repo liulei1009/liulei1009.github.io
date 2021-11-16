@@ -40,6 +40,7 @@ categories-order:
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lei.liu@colorado.edu"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Liu-Lei-16"}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
