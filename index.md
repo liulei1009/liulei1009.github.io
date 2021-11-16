@@ -18,13 +18,13 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 - Ionosphere Responses to Severe Weather Events (e.g., Ionosphere Storms, Earthquakes)
 
 ## Experience
-#### University of Colorado Boulder, US. 2020.08-Present
+#### University of Colorado Boulder, US. &nbsp 2020.08-Present
 Post-Doc Research Associate at Aerospace Engineering Sciences Department.  Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 - Machine Learning Prediction of Ionospheric TEC and Irregularities/Scintillation
 - GNSS Ionosphere Monitoring and Modeling
 - Ionospheric Space Weather Impacts on GNSS operations
 
-#### University of Michigan Ann Arbor, US. 2018.11-2020.08
+#### University of Michigan Ann Arbor, US. &nbsp 2018.11-2020.08
 Visiting Ph.D. Student at Department of Climate and Space Sciences and Engineering.  Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
 - Forecasting of GNSS TEC Using Deep Learning Approaches
 - Ionospheric Responses During Geomagnetic Storms
