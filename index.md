@@ -17,7 +17,7 @@ Visiting Ph.D. Student at Department of Climate and Space Sciences and Engineeri
 - Forecasting of GNSS TEC Using Deep Learning Approaches
 - Ionospheric Responses During Geomagnetic Storms
 
-### Experience 
+### Education 
 #### Wuhan University, China  2017.09-2020.06
 Ph.D. in Space Geodesy and Geomatics; Advisor: Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
 #### Wuhan University, China  2014.09-2017.06
