@@ -19,6 +19,7 @@ Post-Doc Research Associate at Aerospace Engineering Sciences Department;  Advis
 - Machine Learning Prediction of Ionospheric TEC and Irregularities/Scintillation
 - GNSS Ionosphere Monitoring and Modeling
 - Ionospheric Space Weather Impacts on GNSS operations
+
 #### University of Michigan Ann Arbor, US; 2018.11-2020.08
 Visiting Ph.D. Student at Department of Climate and Space Sciences and Engineering;  Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
 - Forecasting of GNSS TEC Using Deep Learning Approaches
