@@ -42,6 +42,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Liu-Lei-16"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0002-1040-6026"}
+  - {title: GOOGLE, icon: google, url: "https://scholar.google.com/citations?user=JqwKipIAAAAJ&hl=en"}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
