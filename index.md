@@ -1,3 +1,4 @@
+Syntax highlighted code block
 ---
 title: ""
 layout: page
