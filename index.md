@@ -18,7 +18,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 - Ionosphere Responses to Severe Weather Events (e.g., Ionosphere Storms, Earthquakes)
 
 ## Experience
-#### University of Colorado Boulder, US;  2020.08-Present
+**University of Colorado Boulder, US;  2020.08-Present**
 Post-Doc Research Associate at Aerospace Engineering Sciences Department;  Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 - Machine Learning Prediction of Ionospheric TEC and Irregularities/Scintillation
 - GNSS Ionosphere Monitoring and Modeling
