@@ -14,7 +14,7 @@ layout: page
 - Ionosphere Responses to Severe Weather Events (e.g., Ionosphere Storms, Earthquakes)
 
 ## Experience
-#### University of Colorado Boulder, US;  2020.08-Present
+<strong>University of Colorado Boulder, US</strong>;  2020.08-Present
 Post-Doc Research Associate at Aerospace Engineering Sciences Department;  Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 - Machine Learning Prediction of Ionospheric TEC and Irregularities/Scintillation
 - GNSS Ionosphere Monitoring and Modeling
