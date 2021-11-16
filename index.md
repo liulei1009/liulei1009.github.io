@@ -10,5 +10,5 @@ Lei Liu a Post-Doc Research Associate for the Satellite Navigation and Sensing L
       |  <strong><a href="people#join-our-team">Join our lab</a></strong></p>
 
   <p align="center">
-      <img src= "images/space-weather.png" width="1200" height="700" align="middle"/>
+      <img src= "images/space-weather.png" width="1200" height="600" align="middle"/>
   </p>
