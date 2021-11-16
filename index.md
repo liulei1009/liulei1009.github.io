@@ -5,7 +5,8 @@ layout: page
 
 ![](/images/leiliu.png){: style="width: 250px; float: left; margin: 0px  10px"}
 <strong>Dr. Lei Liu</strong> is a Post-Doc Research Associate for the Satellite Navigation and Sensing Laboratory [(SeNSe Lab)](http://gnssrange.com/) at the University of Colorado Boulder. He received his Ph.D. in Geodesy and Geomatics from Wuhan University China in 2020, supervised by Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/). His current research interests are GNSS ionospheric monitoring, modeling, and forecasting of ionospheric TEC and irregularities using machine learning. See his [CV](https://drive.google.com/file/d/1fmaxUvoSh9hu_4B8x-8H5Laq4L_ZIlft/view?usp=sharing) for more information.
-** **
+
+**QQQ**
 
 ## Research Interests
 - GNSS Ionosphere Monitoring and Modeling
