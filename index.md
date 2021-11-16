@@ -25,7 +25,7 @@ Post-Doc Research Associate at Aerospace Engineering Sciences Department. &nbsp;
 - Ionospheric Space Weather Impacts on GNSS operations
 
 #### University of Michigan Ann Arbor, US. &nbsp; 2018.11-2020.08
-Visiting Ph.D. Student at Department of Climate and Space Sciences and Engineering. &nbsp;Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
+Visiting Ph.D. Student at Department of Climate and Space Sciences and Engineering. &nbsp; Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
 - Forecasting of GNSS TEC Using Deep Learning Approaches
 - Ionospheric Responses During Geomagnetic Storms
 
