@@ -24,7 +24,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 ## Education & Experience
 #### University of Colorado Boulder, US. &nbsp; 2020.08-Present
 - **Post-Doc Research Associate** at Aerospace Engineering Sciences Department. &nbsp; Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
-- 
+
 #### University of Michigan Ann Arbor, US. &nbsp; 2018.11-2020.08
 - **Visiting Ph.D. Student** at Department of Climate and Space Sciences and Engineering. &nbsp; Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
 
