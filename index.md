@@ -27,11 +27,11 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 #### University of Michigan Ann Arbor, US. &nbsp; 2018.11-2020.08
 - **Visiting Ph.D. Student** at Department of Climate and Space Sciences and Engineering. &nbsp; Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
 #### Wuhan University, China;  2017.09-2020.06
-- **Ph.D.** in Space Geodesy and Geomatics;  Advisor:  Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
+- **Ph.D.** in Space Geodesy and Geomatics.  &nbsp; Advisor:  Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
 #### Wuhan University, China;  2014.09-2017.06
 - **M.S.** in Space Geodesy and Geomatics;  Advisor:  Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
 #### Central South University of Forestry and Technology, China;  2010.09-2014.06
-- **B.S.** in Surveying and Mapping;  Advisor:  Prof. [Jiangping Long](https://tmxy.csuft.edu.cn/szdw/fjslm/201804/t20180402_74362.html)
+- **B.S.** in Surveying and Mapping. &nbsp; Advisor:  Prof. [Jiangping Long](https://tmxy.csuft.edu.cn/szdw/fjslm/201804/t20180402_74362.html)
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
   <p align="center"><strong><a href="participate">Participate in a study</a></strong>  
