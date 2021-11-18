@@ -15,7 +15,7 @@
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020SW002501
     display: Space Weather (2020)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Multi-scale ionosphere responses to the May 2017 magnetic storm over the Asian sector"
@@ -25,7 +25,7 @@
   link:
     url: https://link.springer.com/article/10.1007/s10291-019-0940-1
     display: GPS solutions (2020)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Ingestion of GIM-derived TEC data for updating IRI-2016 driven by effective IG indices over the European region"
