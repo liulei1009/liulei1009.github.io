@@ -18,6 +18,16 @@
   highlight: 0
   news2:
   
+- title: "QWWWWWWWWWWWWWWW"
+  image: TBG_SL.png
+  description: The developed model also shows competitive performance in predicting global TEC when compared to the persistence model and two empirical models (IRI-2016 and NeQuick-2).
+  authors: Lei Liu, Shasha Zou, Yibin Yao, Zihan Wang
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020SW002501
+    display: Space Weather (2020)
+  highlight: 0
+  news2:
+  
 - title: "Ingestion of GIM derived TEC data for updating IRI 2016 driven by effective IG indices over the European regionr"
   image: TBG_SL.png
   description: otal electron content (TEC) data from Global Ionosphere Maps are ingested into the IRI-2016 model through retrieving the optimal ionospheric index (IG) over Europe on an hourly basis.
