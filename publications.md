@@ -1,8 +1,7 @@
 ---
 title: "Publications"
-layout: gridlay
+layout: default
 excerpt: "Publications."
-sitemap: true
 permalink: /publications/
 ---
 <!-- ---
