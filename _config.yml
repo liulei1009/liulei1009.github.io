@@ -39,11 +39,11 @@ categories-order:
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lei.liu@colorado.edu"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Liu-Lei-16"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0002-1040-6026"}
   - {title: GOOGLE, icon: google, url: "https://scholar.google.com/citations?user=JqwKipIAAAAJ&hl=en"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/lei-liu-46b551222/"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"} # Subscribe
 
 comments:
