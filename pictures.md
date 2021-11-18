@@ -1,6 +1,6 @@
 ---
-title: "Resources"
-permalink: "/resources/"
+title: "Pictures"
+permalink: "/pictures/"
 layout: page
 ---
 
