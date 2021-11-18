@@ -28,5 +28,12 @@
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
-
+ - title: "Ingestion of GIM-derived TEC data for updating IRI-2016 driven by effective IG indices over the European regionr"
+  image: TBG_SL.png
+  description: otal electron content (TEC) data from Global Ionosphere Maps are ingested into the IRI-2016 model through retrieving the optimal ionospheric index (IG) over Europe on an hourly basis.
+  authors: Lei Liu, Yibin Yao, Shasha Zou, Jian Kong, Lulu Shan, Changzhi Zhai, Cunjie Zhao, Youkun Wang
+  link:
+    url: https://link.springer.com/article/10.1007/s00190-019-01291-5
+    display: Journal of Geodesy (2019)
+  highlight: 1
 
