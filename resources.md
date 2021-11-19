@@ -17,6 +17,11 @@ Sharing knowledge is important to us, so we've linked some resources to help you
 
 The Integrated Geoscience Observatory [(InGeO)](https://ingeo.datatransport.org/home/) is a project supported by the National Science Foundation[(NSF)](https://nsf.gov/). The pilot project was developed under NSF [EarthCube](https://www.earthcube.org/) grant #1541057 to [SRI International](https://www.sri.com/). EarthCube aims to improve collaboration between geoscientists, access to scientific data, and reproducibility of scientific results.
 
+### GNSS-IR
+
+GNSS-interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-gnss-interferometric-reflectometry/)
+
+
 <!-- ### Websites and Wikis
 
 Our website is hosted with [Github Pages](https://pages.github.com/) and uses the [constrast](https://github.com/niklasbuschmann/contrast) theme.  We also keep a [Lab Wiki](https://wiki.childlanglab.com/) including our [Lab Handbook](https://wiki.childlanglab.com/resources/lab-handbook), to keep track of how we do things and share with others. Feel free to use ours as a jumping off point to create your own. -->
