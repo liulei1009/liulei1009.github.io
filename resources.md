@@ -23,13 +23,14 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 ### Data Access
 
-#### Spire Global 
+- **Spire Global** 
+Spire's space weather measurements, such as TEC, ionosphere profiles, and scintillations.
 
-#### CYGNSS
+- **CYGNSS**
 
-#### Ground-based GNSS Network
+- **Ground-based GNSS Network**
 
-#### LEO-based Satellites
+- **LEO-based Satellites**
 
 
 <!-- ### Websites and Wikis
