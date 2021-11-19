@@ -19,7 +19,7 @@ The Integrated Geoscience Observatory [(InGeO)](https://ingeo.datatransport.org/
 
 ### GNSS-IR
 
-GNSS-interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-gnss-interferometric-reflectometry/)
+GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-gnss-interferometric-reflectometry/)
 
 
 <!-- ### Websites and Wikis
