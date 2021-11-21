@@ -46,7 +46,7 @@
     url: https://link.springer.com/article/10.1007/s10291-018-0770-6
     display: GPS solutions (2018)
   highlight: 1
-  news2: SEE QQQQQ
+  news2:
 
 - title: "Analysis of the Global Ionospheric Disturbances of the March 2015 Great Storm"
   image: TBG_SL.png
@@ -56,7 +56,7 @@
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA023352
     display: Journal of Geophysical Research: Space Physics (2016)
   highlight: 1
-  news2: SEE QQQQQ
+  news2:
 
 
   
