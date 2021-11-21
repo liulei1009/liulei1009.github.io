@@ -38,4 +38,14 @@
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
   
+  - title: "Analysis of the Global Ionospheric Disturbances of the March 2015 Great Storm"
+  image: TBG_SL.png
+  description: The global ionospheric storm in March 2015 was investigated by using data from over 3000 GPS stations worldwide. In this study, total electron content (TEC), rate of TEC (ROT), and ROT's standard deviation rate of the TEC index, as well as the second-order difference operator TECT, were considered as main characteristic methods to distinguish ionosphereic disturbances.
+  authors: Yibin Yao, Lei Liu, Jian Kong, Changzhi Zhai
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JA023352
+    display: Journal of Geophysical Research: Space Physics (2016)
+  highlight: 1
+  news2: SEE QQQQQ
+  
 
