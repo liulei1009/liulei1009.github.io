@@ -37,8 +37,18 @@
     display: Journal of Geodesy (2019)
   highlight: 1
   news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
-  
-  - title: "Analysis of the Global Ionospheric Disturbances of the March 2015 Great Storm"
+
+- title: "Global ionospheric modeling based on multi-GNSS, satellite altimetry, and Formosat-3/COSMIC data"
+  image: TBG_SL.png
+  description: A global ionospheric model is constructed from multi-GNSS (here, GPS/GLONASS/BDS), satellite altimetry and Formosat-3/COSMIC (F3/C) observations using a spherical harmonic (SH) function.
+  authors: Yibin Yao, Lei Liu, Jian Kong, Changzhi Zhai
+  link:
+    url: https://link.springer.com/article/10.1007/s10291-018-0770-6
+    display: GPS solutions (2018)
+  highlight: 1
+  news2: SEE QQQQQ
+
+- title: "Analysis of the Global Ionospheric Disturbances of the March 2015 Great Storm"
   image: TBG_SL.png
   description: The global ionospheric storm in March 2015 was investigated by using data from over 3000 GPS stations worldwide. In this study, total electron content (TEC), rate of TEC (ROT), and ROT's standard deviation rate of the TEC index, as well as the second-order difference operator TECT, were considered as main characteristic methods to distinguish ionosphereic disturbances.
   authors: Yibin Yao, Lei Liu, Jian Kong, Changzhi Zhai
@@ -47,5 +57,10 @@
     display: Journal of Geophysical Research: Space Physics (2016)
   highlight: 1
   news2: SEE QQQQQ
+
+
+  
+  
+  
   
 
