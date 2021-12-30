@@ -21,7 +21,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 - Estimation of Topside Ionosphere TEC and DCB Using LEO Satellites Observation
 - Ionosphere Responses to Severe Weather Events (e.g., Ionosphere Storms, Earthquakes)
 
-## Education & Experience
+## Experience & Education
 #### University of Colorado Boulder, US. &nbsp; 2020.08-Present
 - **Post-Doc Research Associate** at Aerospace Engineering Sciences Department. &nbsp; Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 
