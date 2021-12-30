@@ -38,8 +38,8 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 - **B.S.** in Surveying and Mapping. &nbsp; Advisor:  Prof. [Jiangping Long](https://tmxy.csuft.edu.cn/szdw/fjslm/201804/t20180402_74362.html)
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
-  <p align="center"><strong><a href="participate">Participate in a study</a></strong>  
-      |  <strong><a href="people#join-our-team">Join our lab</a></strong></p>
+<!--   <p align="center"><strong><a href="participate">Participate in a study</a></strong>  
+      |  <strong><a href="people#join-our-team">Join our lab</a></strong></p> -->
 
   <p align="center">
       <img src= "images/space-weather.png" width="1200" height="600" align="middle"/>
