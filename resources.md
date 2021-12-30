@@ -25,7 +25,7 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 #### Spire Global
 
-Spire's space weather measurements, such as TEC, ionosphere profiles, and scintillations.
+[Spire](https://earthdata.nasa.gov/esds/csdap/commercial-datasets) space weather measurements, such as TEC, ionosphere profiles, and scintillations.
 
 #### CYGNSS
 
