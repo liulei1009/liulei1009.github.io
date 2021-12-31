@@ -11,11 +11,10 @@ I am happy to share my life with all of you!
 
 <!-- ![QQQ](/images/Lab-Photo.JPG) -->
 
-| ![](/images/Lab-Photo.JPG) |
+| ![QQQ](/images/Lab-Photo.JPG) |
 |:--:|
-| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
+| <b>SeNSe Lab staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.</b>|
 
-SeNSe Lab staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
 
 <!-- Lab-Photo.JPG -->
 <!-- ![](/images/leiliu.png){: style="width: 220px; float: left; margin: 0px  10px"}  -->
