@@ -7,7 +7,7 @@ categories: media
 
 <p align="center"><strong>I am happy to share my life with all of you!</strong></p>
 
----
+<!-- --- -->
 
 ## Group picture
 | ![QQQ](/images/Lab-Photo.JPG) |
