@@ -55,6 +55,10 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 |:--:|
 | <b>Credit: NASA.</b>|
 
+| ![QQQ](/images/4th-of-July-trail.jpg) |
+|:--:|
+| <b>Hiking with group members at 4th of July trail, Aug 14 2021.</b>|
+
 <p align = "center">
 <img src = "https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg">
 </p>
