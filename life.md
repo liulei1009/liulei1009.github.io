@@ -17,7 +17,7 @@ categories: media
 ## Hiking
 | ![QQQ](/images/4th-of-July-trail.jpg) |
 |:--:|
-| <b>Hiking with group members at 4th of July trail, Aug 14, 2021.</b>|
+| <b>Hiking with group members at 4th of July trail, Aug 14 2021.</b>|
 
 
 
