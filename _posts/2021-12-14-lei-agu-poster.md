@@ -1,3 +1,18 @@
+---
+title:  "Lei at al. (2021) Arctic TEC Mapping Using Integrated LEO-based GNSS-R and Ground-based GNSS Observations: A Simulation Study"
+specifics: "poster at AGU"
+mathjax: true
+author: 
+    - lei
+    - jade
+    - yang
+category: Poster
+---
 
 
-Ionospheric total electron content (TEC) maps with the high spatial and temporal resolution are essential for depicting the state of the ionosphere and for performing ionospheric delay corrections associated with satellite navigation applications. Low Earth orbit (LEO) CubeSat-based global navigation satellite system (GNSS) reflectometry (GNSS-R) measurements provide a promising opportunity for retrieval of ionospheric TEC over sea ice and calm waters, which offers a potential new data source to fill the gaps of ground-based GNSS networks. We present an algorithm that integrates sTEC measurements from the GNSS-R CubeSats and available ground-based GNSS receivers to derive Arctic vertical TEC (vTEC) maps. A simulation study using the model ionosphere constructed from the NeQuick-2 is conducted to assess the performance of the algorithm. Varying levels of temporal resolutions and solar activities as well as the number of CubeSats and the number of maximum simultaneously tracked reflection signals by a CubeSat are implemented in the simulation. The results show that the inclusion of coherent GNSS-R measurements improves the accuracy of the vTEC maps under all levels of solar activities. The RMSE improvement percentage is most obvious when the update interval is the shortest. Increasing the number of CubeSats further improves the accuracy. However, no significant improvement in vTEC map accuracy is observed when the number of maximum simultaneously tracked GNSS-R satellites is higher than 4.
+Lei Liu is presenting a short poster at 2021 AGU  Fall meeting in session SA25C: Distributed Ionospheric Measurements and Heterogeneous-Data-Driven Physics-Based Simulations for the Auroral Ionosphere. 
+
+- [Abstract](../assets/Arctic-TEC-mapping-poster.pdf)
+- [Manuscript](https://ieeexplore.ieee.org/document/9663187)
+
+
