@@ -1,5 +1,5 @@
 ---
-title:  "Pictures"
+title:  "Life"
 mathjax: true
 layout: post
 categories: media
