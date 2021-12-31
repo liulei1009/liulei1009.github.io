@@ -17,7 +17,3 @@ The ML model we developed could play an important role in warning for space weat
 <!-- - [Overview Vedio](../assets/CUNY_2021_abstract_250.pdf) -->
 
 
-
-
-
-
