@@ -1,4 +1,14 @@
-- title: "Machine Learning Prediction of Storm‐time High‐latitude Ionospheric Irregularities from GNSS‐derived ROTI Maps"
+- title: "Arctic TEC Mapping Using Integrated LEO-based GNSS-R and Ground-based GNSS Observations: A Simulation Study"
+  image: Pairs3.png
+  description: We present an image-based machine learning (ML) approach to predict storm-time two-dimensional (2D) ionospheric irregularity occurrence and intensity using ground-based global navigation satellite system receiver measurements.
+  authors: Lei Liu, Y. Jade Morton, Yang Wang, Paul Wu
+  link:
+    url: https://ieeexplore.ieee.org/document/9663187/authors#authors
+    display: IEEE Transactions on Geoscience and Remote Sensing
+  highlight: 1
+  news2: ses QWWWWQQQQQ
+  
+  - title: "Machine Learning Prediction of Storm‐time High‐latitude Ionospheric Irregularities from GNSS‐derived ROTI Maps"
   image: Pairs3.png
   description: We present an image-based machine learning (ML) approach to predict storm-time two-dimensional (2D) ionospheric irregularity occurrence and intensity using ground-based global navigation satellite system receiver measurements.
   authors: Lei Liu, Y. Jade Morton, Yunxiang Liu
