@@ -51,9 +51,9 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
   Credit: NASA
 </p>
   
-| ![QQQ](/images/space-weather.png) |
+<!-- | ![QQQ](/images/space-weather.png) |
 |:--:|
-| <b>*Credit: NASA.*</b>|
+| <b>*Credit: NASA.*</b>| -->
 
 
 
