@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "participate.md", title: "Participate"}
   - {file: "resources.md", title: "Resources"}
   - {file: "publications.md", title: "Publications"}
-  - {file: "pictures.md", title: "Pictures"}
+  - {file: "pictures.md", title: "Life"}
 
 # collections
 collections:
