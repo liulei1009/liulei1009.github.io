@@ -46,7 +46,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
   <p align="center">
       <img src= "images/space-weather.png" width="1200" height="600" align="middle"/>
   <figcaption><strong>Picture taken in Aspen, Colorado, Sept 2021</a></strong>
-                 <br> {{ author.position }}</figcaption>
+                 <br> QQQQ</figcaption>
   </p>
   
   
