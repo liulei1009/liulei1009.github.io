@@ -47,7 +47,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
       <img src= "images/space-weather.png" width="1200" height="600" align="middle"/>
   </p>
   
-  <p align="center"><strong>Credit: NASA</strong></p>
+  <p align="center">Credit: NASA</p>
   
   
   
