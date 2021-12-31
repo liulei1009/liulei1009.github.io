@@ -1,5 +1,5 @@
 ---
-title:  "Our paper entitled "Arctic TEC Mapping Using Integrated LEO-based GNSS-R and Ground-based GNSS Observations: A Simulation Study" is accepeted by IEEE TGRS"
+title:  "Our paper entitled *Arctic TEC Mapping Using Integrated LEO-based GNSS-R and Ground-based GNSS Observations: A Simulation Study* is accepeted by IEEE TGRS"
 specifics: "paper"
 mathjax: true
 author: lei
