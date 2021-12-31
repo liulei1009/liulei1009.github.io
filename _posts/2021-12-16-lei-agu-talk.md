@@ -1,4 +1,3 @@
-
 ---
 title:  "Lei et al. (2021) Machine learning-based Prediction of global TEC and High-latitude ROTI Maps"
 specifics: "talk at 2021 AGU Fall Meeting"
