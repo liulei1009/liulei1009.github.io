@@ -5,9 +5,15 @@ layout: post
 categories: media
 ---
 
-I am happy to share my life!
+I am happy to share my life with all of you!
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+<!-- ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg) -->
+![QQQ]((/images/Lab-Photo.JPG)
+
+SeNSe Lab staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
+
+<!-- Lab-Photo.JPG -->
+<!-- ![](/images/leiliu.png){: style="width: 220px; float: left; margin: 0px  10px"}  -->
 
 
 ## MathJax
