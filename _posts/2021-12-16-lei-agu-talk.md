@@ -16,7 +16,7 @@ The ML model we developed could play an important role in warning for space weat
 
 - [Talk Slides](../assets/Li_Schuler_2021-cuny-talk.pdf)
 - [Abstract](../assets/CUNY_2021_abstract_250.pdf)
-- [QQQQQQ ddddd](../assets/Oral Presentation-AGU2021.pdf)
+- [QQQQQ](../assets/Oral-Presentation-AGU2021.pdf)
 
 
 
