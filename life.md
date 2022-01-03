@@ -9,21 +9,20 @@ categories: media
 
 ---
 
-<!-- ## Group picture
-| ![](/images/Lab-Photo.JPG) |
-|:--:|
-| <b>[SeNSe Lab](http://gnssrange.com/) staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.</b>|
-
-## Hiking
-| ![](/images/4th-of-July-trail.jpg) |
-|:--:|
-| <b>Hiking with group members at 4th of July trail, Aug 14 2021.</b>| -->
-
 <p align = "center">
 <img src = "/images/Lab-Photo.JPG">
 </p>
 <p align = "center">
   SeNSe Lab staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
+</p>
+
+---
+
+<p align = "center">
+<img src = "/images/fall-leves.JPG">
+</p>
+<p align = "center">
+ Aspen Fall leaves, Sep 26 2021.
 </p>
 
 ---
@@ -37,14 +36,16 @@ categories: media
 
 ---
 
+
 <p align = "center">
 <img src = "/images/chasam-lake.JPG">
 </p>
 <p align = "center">
-  Hiking at Chasam Lake, Jul18 2021.
+  Hiking at Chasam Lake, Jul 18 2021.
 </p>
 
 ---
+
 
 
 
