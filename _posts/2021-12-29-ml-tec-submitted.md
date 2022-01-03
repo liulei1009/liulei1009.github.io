@@ -13,6 +13,4 @@ Lei submitted a paper to *IEEE TGRS* today. The paper applies the convolutional 
 
 Full manuscript can be accessed by request at lei.liu@colorado.edu
 
-<!-- [paper](../assets/TGRS-submmison-ML-TEC.pdf) -->
-
 
