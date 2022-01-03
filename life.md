@@ -7,7 +7,7 @@ categories: media
 
 <p align="center"><strong>I am happy to share my life with all of you!</strong></p>
 
-## Group picture
+<!-- ## Group picture
 | ![](/images/Lab-Photo.JPG) |
 |:--:|
 | <b>[SeNSe Lab](http://gnssrange.com/) staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.</b>|
@@ -15,8 +15,21 @@ categories: media
 ## Hiking
 | ![](/images/4th-of-July-trail.jpg) |
 |:--:|
-| <b>Hiking with group members at 4th of July trail, Aug 14 2021.</b>|
+| <b>Hiking with group members at 4th of July trail, Aug 14 2021.</b>| -->
 
+<p align = "center">
+<img src = "/images/Lab-Photo.JPG">
+</p>
+<p align = "center">
+  [SeNSe Lab](http://gnssrange.com/) staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
+</p>
+
+<p align = "center">
+<img src = "/images/4th-of-July-trail.jpg">
+</p>
+<p align = "center">
+  Hiking with group members at 4th of July trail, Aug 14 2021.
+</p>
 
 
 ## MathJax
