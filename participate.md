@@ -13,5 +13,4 @@ Children and families can participate at our lab in Philadelphia, PA or online v
 ### Join our team
 If you are interested in joining our research team, visit our [people page](http://gnssrange.com/people) to learn more about open positions in our lab.
 
-<!-- If you are interested in joining our research team, visit our [people page](../people#join-our-team) to learn more about open positions in our lab. -->
-
+If you are interested in joining our research team, visit our [people page](../people#join-our-team) to learn more about open positions in our lab.
