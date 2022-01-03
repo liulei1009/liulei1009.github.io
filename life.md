@@ -23,7 +23,7 @@ categories: media
 <img src = "/images/Lab-Photo.JPG">
 </p>
 <p align = "center">
-  _[SeNSe Lab](http://gnssrange.com/) staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021._
+  [SeNSe Lab](http://gnssrange.com/) staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
 </p>
 
 ---
@@ -32,7 +32,7 @@ categories: media
 <img src = "/images/4th-of-July-trail.jpg">
 </p>
 <p align = "center">
-  _Hiking with group members at 4th of July trail, Aug 14 2021._
+  Hiking with group members at 4th of July trail, Aug 14 2021.
 </p>
 
 ---
