@@ -37,6 +37,17 @@ categories: media
 
 ---
 
+<p align = "center">
+<img src = "/images/chasam-lake.JPG">
+</p>
+<p align = "center">
+  Hiking at Chasam Lake, Jul18 2021.
+</p>
+
+---
+
+
+
 ## MathJax
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
