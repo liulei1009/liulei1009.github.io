@@ -23,7 +23,7 @@ categories: media
 <img src = "/images/Lab-Photo.JPG">
 </p>
 <p align = "center">
-  [SeNSe Lab](http://gnssrange.com/) staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
+  SeNSe Lab staff, students, alumni, and their families celebrating the graduation of doctoral students Brian Breitsch, Ian Collett, Yunxiang Liu, and Yang Wang and masters student Sergei Bilardi at Boulder’s Foothills Community Park, November 2021.
 </p>
 
 ---
