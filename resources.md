@@ -24,21 +24,11 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 ### Machine Learning
 
 ### Data Access
-
-#### Spire Global
-
-[Spire](https://earthdata.nasa.gov/esds/csdap/commercial-datasets) space weather measurements, such as TEC, ionosphere profiles, and scintillations.
-
-#### CYGNSS
-
-#### Ground-based GNSS Network
-
-#### LEO-based Satellites
-
+- Spire Global: [Spire](https://earthdata.nasa.gov/esds/csdap/commercial-datasets) space weather measurements, such as TEC, ionosphere profiles, and scintillations.
+- CYGNSS
+- Ground-based GNSS Network
+- LEO-based Satellites
 
 <!-- ### Websites and Wikis
 
 Our website is hosted with [Github Pages](https://pages.github.com/) and uses the [constrast](https://github.com/niklasbuschmann/contrast) theme.  We also keep a [Lab Wiki](https://wiki.childlanglab.com/) including our [Lab Handbook](https://wiki.childlanglab.com/resources/lab-handbook), to keep track of how we do things and share with others. Feel free to use ours as a jumping off point to create your own. -->
-
-
-
