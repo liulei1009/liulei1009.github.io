@@ -8,5 +8,3 @@ layout: default
 {% else %}
   {% include archive.html title="Research" %}
 {% endif %}
-
-<!-- 文件在_post中 -->
