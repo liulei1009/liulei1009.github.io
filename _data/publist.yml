@@ -1,4 +1,3 @@
-# 对格式要求严格，空格，顶行等等
 - title: "Arctic TEC Mapping Using Integrated LEO-based GNSS-R and Ground-based GNSS Observations: A Simulation Study"
   image: Pairs3.png
   description: We present an image-based machine learning (ML) approach to predict storm-time two-dimensional (2D) ionospheric irregularity occurrence and intensity using ground-based global navigation satellite system receiver measurements.
