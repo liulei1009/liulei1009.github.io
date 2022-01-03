@@ -21,6 +21,8 @@ The Integrated Geoscience Observatory [(InGeO)](https://ingeo.datatransport.org/
 
 GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-gnss-interferometric-reflectometry/)
 
+### Machine Learning
+
 ### Data Access
 
 #### Spire Global
@@ -32,8 +34,6 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 #### Ground-based GNSS Network
 
 #### LEO-based Satellites
-
-#### Machine Learning
 
 
 <!-- ### Websites and Wikis
