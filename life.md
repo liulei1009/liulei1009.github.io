@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<p align="center"><strong>I am happy to share my life with all of you!</strong></p>
+<p align="center"><strong>I am happy to share my life with you!</strong></p>
 
 ---
 
