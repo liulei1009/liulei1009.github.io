@@ -10,7 +10,6 @@ layout: default
 {% endif %}
 
 
-
 <!-- {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
