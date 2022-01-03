@@ -19,7 +19,7 @@ categories: media
 ---
 
 <p align = "center">
-<img src = "/images/fall-leaves.JPG">
+<img src = "/images/fall-leaves.jpg">
 </p>
 <p align = "center">
  Aspen Fall leaves, Sep 26 2021.
