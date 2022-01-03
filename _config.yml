@@ -17,7 +17,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+#   - {file: "index.md", title: "Home"}
+  - {file: "index.md"}
 #   - {file: "people.md", title: "People"}
   - {file: "research.md", title: "Research"}
   - {file: "participate.md", title: "Participate"}
@@ -25,6 +26,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Publications"}
   - {file: "life.md", title: "Life"}
 #   - {file: "participate.md", title: "Participate"}
+
+# %%%
+#   - {file: "index.md"}
+#   - {file: "people.md", title: "People"}
+#   - {file: "research.md", title: "Research"}
+#   - {file: "participate.md", title: "Participate"}
+#   - {file: "resources.md", title: "Resources"}
+# %%%
 
 # collections
 collections:
@@ -57,7 +66,3 @@ remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
   - jekyll-remote-theme
-  
-
-
-
