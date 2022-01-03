@@ -13,7 +13,7 @@ categories: media
 <img src = "/images/Lab-Photo.JPG">
 </p>
 <p align = "center">
-  SeNSe Lab staff, students, alumni, and their families celebrating the graduation of doctoral and master students at Boulder’s Foothills Community Park, Nov 15 2021.
+  SeNSe Lab member and their families at Boulder’s Foothills Community Park, Nov 15 2021.
 </p>
 
 ---
