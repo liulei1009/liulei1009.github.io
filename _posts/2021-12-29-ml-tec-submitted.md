@@ -9,5 +9,9 @@ author:
 category: Paper
 ---
 
-Lei submitted a [paper](../assets/TGRS-submmison-ML-TEC.pdf) to *IEEE TGRS* today. The paper applies the convolutional long short-term memory (convLSTM)-based machine learning (ML) models to forecast global ionospheric total electron content (TEC) maps with up to 24 hours of lead time at a 1-hour interval.
+Lei submitted a paper to *IEEE TGRS* today. The paper applies the convolutional long short-term memory (convLSTM)-based machine learning (ML) models to forecast global ionospheric total electron content (TEC) maps with up to 24 hours of lead time at a 1-hour interval.
+
+Full manuscript can be accessed by request at lei.liu@colorado.edu
+
+<!-- [paper](../assets/TGRS-submmison-ML-TEC.pdf) -->
 
