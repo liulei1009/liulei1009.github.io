@@ -13,7 +13,7 @@ categories: media
 <img src = "/images/Lab-Photo.JPG">
 </p>
 <p align = "center">
-  SeNSe Lab member and their families at Boulder’s Foothills Community Park, Nov 15 2021.
+  SeNSe Lab members and their families at Boulder’s Foothills Community Park, Nov 15 2021.
 </p>
 
 ---
