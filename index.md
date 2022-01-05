@@ -9,9 +9,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 
 ##### Picture taken in Aspen, Colorado, Sept 2021
 
-
 ---
-
 
 ## Research Interests
 - GNSS Ionosphere Monitoring and Modeling
