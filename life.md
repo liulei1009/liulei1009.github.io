@@ -67,7 +67,7 @@ categories: media
 <img src = "/images/Rockey-Mountain.JPG">
 </p>
 <p align = "center">
- Beatutil View in Estes Park, Rockey Mountain, Jun 26 2021.
+  Beatutil View in Estes Park, Rockey Mountain, Jun 26 2021.
 </p
 
 ---
@@ -79,11 +79,14 @@ categories: media
   Miami Beach, Florida, Jan 18 2021.
 </p>
 
+
 ---
+
 
 ## Embedded content
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
 
 {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+
 
