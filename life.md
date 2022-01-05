@@ -13,7 +13,7 @@ categories: media
 <img src = "/images/Boulder-creek-view.jpg">
 </p>
 <p align = "center">
-  Afternoon walking along the Boulder creek trail, Nov 26 2021.
+  Afternoon walking at the Boulder creek trail, Nov 26 2021.
 </p>
 
 ---
