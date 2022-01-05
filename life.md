@@ -45,7 +45,6 @@ categories: media
 
 ---
 
-
 <p align = "center">
 <img src = "/images/chasam-lake.JPG">
 </p>
@@ -65,7 +64,7 @@ categories: media
 ---
 
 <p align = "center">
-<img src = "/images/Rockey Mountain.JPG">
+<img src = "/images/Rockey-Mountain.JPG">
 </p>
 <p align = "center">
  Beatutil View in Estes Park, Rockey Mountain, Jun 26 2021.
@@ -79,8 +78,6 @@ categories: media
 <p align = "center">
   Miami Beach, Florida, Jan 18 2021.
 </p>
-
-<!-- --- -->
 
 <!-- ## MathJax
 
