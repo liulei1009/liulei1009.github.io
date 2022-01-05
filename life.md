@@ -10,6 +10,24 @@ categories: media
 ---
 
 <p align = "center">
+<img src = "/images/Boulder-creek-view.jpg">
+</p>
+<p align = "center">
+  Afternoon walking along the Boulder creek trail, Nov 26 2021.
+</p>
+
+---
+
+<p align = "center">
+<img src = "/images/Boulder-creek-view.jpg">
+</p>
+<p align = "center">
+  Afternoon walking along the Boulder creek trail, Nov 26 2021.
+</p>
+
+---
+
+<p align = "center">
 <img src = "/images/Lab-Photo.JPG">
 </p>
 <p align = "center">
@@ -42,6 +60,33 @@ categories: media
 </p>
 <p align = "center">
   Hiking at Chasam Lake, Jul 18 2021.
+</p>
+
+---
+
+<p align = "center">
+<img src = "/images/window-view.jpg">
+</p>
+<p align = "center">
+  Beautiful window view from my offic, Jun 27 2021.
+</p>
+
+---
+
+<p align = "center">
+<img src = "/images/Rockey Mountain.JPG">
+</p>
+<p align = "center">
+ Beatutil View in Estes Park, Rockey Mountain, Jun 26 2021.
+</p
+
+---
+
+<p align = "center">
+<img src = "/images/Miami-beach.jpg">
+</p>
+<p align = "center">
+  Miami Beach, Florida, Jan 18 2021.
 </p>
 
 <!-- --- -->
