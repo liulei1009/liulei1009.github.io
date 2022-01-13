@@ -71,5 +71,5 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 <i class="fa fa-shield fa-flip-vertical"></i> fa-flip-vertical
   
 <i class="fa fa-camera-retro fa-5x"></i> fa-5x
+ 
 
-<!-- far fa-eye -->
