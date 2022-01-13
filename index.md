@@ -52,7 +52,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
   Credit: NASA
 </p>
 
-<span id="busuanzi_container_site_pv">![qqq](/_data/icons/eye-slash-fill.svg) total visits: <span id="busuanzi_value_site_pv"></span> | 
+<span id="busuanzi_container_site_pv">![qqq](/data/icons/eye-slash-fill.svg) total visits: <span id="busuanzi_value_site_pv"></span> | 
 <span id="busuanzi_container_site_uv">:raising_hand: total visitors: <span id="busuanzi_value_site_uv"></span>
 
 <!-- <span id="busuanzi_container_site_pv""><i class="fa fa-spinner"></i>total visits<span id="busuanzi_value_site_pv"></span>次 | 
