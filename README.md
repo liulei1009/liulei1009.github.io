@@ -9,6 +9,8 @@ Personal website
 ## svg icons
 https://icons.getbootstrap.com/
 
+https://leungwensen.github.io/svg-icon/#logos
+
 https://github.com/twbs/icons
 
 ## 卜算子 域名已更改
