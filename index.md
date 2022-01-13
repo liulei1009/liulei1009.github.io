@@ -3,9 +3,6 @@ title: ""
 layout: page
 ---
 
-busuanzi: 
-enable: true
- 
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
@@ -58,14 +55,10 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
-<span id="busuanzi_container_site_pv">Total Visits<span id="busuanzi_value_site_pv"></span>times</span>
+<span id="busuanzi_container_site_pv">Total Visits <span id="busuanzi_value_site_pv"></span>times</span>
 
-<span id="busuanzi_container_site_pv">
+<!-- <span id="busuanzi_container_site_pv">
   本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
-
-<span id="busuanzi_container_site_pv">
-  本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
+</span> -->
 
 本站总访问量<span id="busuanzi_value_site_pv"></span>次
