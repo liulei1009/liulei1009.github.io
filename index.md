@@ -78,10 +78,10 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 <i class="fa fa-camera-retro fa-4x"></i> fa-4x
 <i class="fa fa-camera-retro fa-5x"></i> fa-5x -->
 
-  <div class="list-group">
+<!--   <div class="list-group">
   <a class="list-group-item" href="#"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home</a>
   <a class="list-group-item" href="#"><i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbsp; Library</a>
   <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; Applications</a>
   <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Settings</a>
-</div>
+</div> -->
   
