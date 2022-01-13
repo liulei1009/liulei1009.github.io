@@ -52,18 +52,12 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
   Credit: NASA
 </p>
 
-<span id="busuanzi_container_site_pv">![](/images/icons/eye-fill.svg) total visits: <span id="busuanzi_value_site_pv"></span> | 
+<span id="busuanzi_container_site_pv"><img src= "/images/icons/eye-fill.svg" alt="" style="vertical-align:middle"> total visits: <span id="busuanzi_value_site_pv"></span> | 
 <span id="busuanzi_container_site_uv"><img src= "/images/icons/person-fill.svg" alt="" style="vertical-align:middle"> total visitors: <span id="busuanzi_value_site_uv"></span>
 
 <!-- <span id="busuanzi_container_site_pv""><i class="fa fa-spinner"></i>total visits<span id="busuanzi_value_site_pv"></span>次 | 
 <span id="busuanzi_container_site_uv""><i class="fa fa-user-md"></i>total visitors<span id="busuanzi_value_site_uv"></span>人 -->
  
-  
-<!-- ![](/images/eye-slash-fill.svg) -->
-  
-<!--   ![](/images/leiliu.png){: style="width: 220px; float: left; margin: 0px  10px"}  -->
-  
-<!--   <img src="logo.jpg" alt="" style="vertical-align:middle"><a href="">找回密码</a> -->
 
 <img src= "/images/icons/person-fill.svg" alt="" style="vertical-align:middle"> QWQEDD
   
