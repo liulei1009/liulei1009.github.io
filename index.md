@@ -60,8 +60,8 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 </span>
 </i> -->
 
-<span id="busuanzi_container_site_pv"><i class="fa fa-eye" aria-hidden="true"></i>本站总访问量<span id="busuanzi_value_site_pv"></span> | 
-<span id="busuanzi_container_site_uv"><i class="fa fa-user-md"></i>本站总访客数<span id="busuanzi_value_site_uv"></span>
+<span id="busuanzi_container_site_pv"><i class="fa fa-eye" aria-hidden="true"></i>total visits<span id="busuanzi_value_site_pv"></span> | 
+<span id="busuanzi_container_site_uv"><i class="fa fa-user-md"></i>total visitors<span id="busuanzi_value_site_uv"></span>
   
 <!--   <i class="fa fa-eye" aria-hidden="true"></i> -->
 
