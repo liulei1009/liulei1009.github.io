@@ -19,7 +19,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+#   - {file: "index.md", title: "Home"}
+  - {file: "index.md", title: <i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; "Home"}
 #   - {file: "index.md"}
 #   - {file: "people.md", title: "People"}
   - {file: "research.md", title: "Research"}
@@ -28,6 +29,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Publications"}
   - {file: "life.md", title: "Life"}
   - {file: "participate.md", title: "Participate"}
+  
+#   <a class="list-group-item" href="#"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home</a>
 
 # collections
 collections:
