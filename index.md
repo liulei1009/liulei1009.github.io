@@ -53,7 +53,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 </p>
 
 <span id="busuanzi_container_site_pv">![](/images/icons/eye-fill.svg) total visits: <span id="busuanzi_value_site_pv"></span> | 
-<span id="busuanzi_container_site_uv">![](/images/icons/person-fill.svg) total visitors: <span id="busuanzi_value_site_uv"></span>
+<span id="busuanzi_container_site_uv"><img src= "/images/icons/person-fill.svg" alt="" style="vertical-align:middle"> total visitors: <span id="busuanzi_value_site_uv"></span>
 
 <!-- <span id="busuanzi_container_site_pv""><i class="fa fa-spinner"></i>total visits<span id="busuanzi_value_site_pv"></span>次 | 
 <span id="busuanzi_container_site_uv""><i class="fa fa-user-md"></i>total visitors<span id="busuanzi_value_site_uv"></span>人 -->
