@@ -19,8 +19,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-#   - {file: "index.md", title: "Home"}
-  - {file: "index.md", title: <i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home}
+  - {file: "index.md", title: "Home"}
+#   - {file: "index.md", title: <i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home}
 #   - {file: "index.md"}
 #   - {file: "people.md", title: "People"}
   - {file: "research.md", title: "Research"}
