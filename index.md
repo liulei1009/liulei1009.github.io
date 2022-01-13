@@ -60,7 +60,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 </span>
 </i> -->
 
-<span id="busuanzi_container_site_pv">:eye: total visits<span id="busuanzi_value_site_pv"></span> | 
+<span id="busuanzi_container_site_pv">:eye: total visits: <span id="busuanzi_value_site_pv"></span> | 
 <span id="busuanzi_container_site_uv"><i class="fa fa-user-md"></i>total visitors: <span id="busuanzi_value_site_uv"></span>
   
 <!--   <i class="fa fa-eye" aria-hidden="true"></i> -->
@@ -68,22 +68,4 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 <!-- <span id="busuanzi_container_site_pv""><i class="fa fa-spinner"></i>total visits<span id="busuanzi_value_site_pv"></span>次 | 
 <span id="busuanzi_container_site_uv""><i class="fa fa-user-md"></i>total visitors<span id="busuanzi_value_site_uv"></span>人 -->
   
-<!--   - {title: GOOGLE, icon: google, url: "https://scholar.google.com/citations?user=JqwKipIAAAAJ&hl=en"} -->
-
-<!-- <i class="fa fa-shield fa-flip-vertical"></i> fa-flip-vertical
-  
-<i class="fa fa-camera-retro fa-5x"></i> fa-5x
-
-<i class="fa fa-camera-retro fa-lg"></i> fa-lg
-<i class="fa fa-camera-retro fa-2x"></i> fa-2x
-<i class="fa fa-camera-retro fa-3x"></i> fa-3x
-<i class="fa fa-camera-retro fa-4x"></i> fa-4x
-<i class="fa fa-camera-retro fa-5x"></i> fa-5x -->
-
-<!--   <div class="list-group">
-  <a class="list-group-item" href="#"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home</a>
-  <a class="list-group-item" href="#"><i class="fa fa-book fa-fw" aria-hidden="true"></i>&nbsp; Library</a>
-  <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; Applications</a>
-  <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Settings</a>
-</div> -->
   
