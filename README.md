@@ -7,6 +7,8 @@ Personal website
 <!-- https://github.com/gameknife/gkEngine -->
 
 ## svg icons
+https://leungwensen.github.io/svg-icon/#logos
+
 https://icons.getbootstrap.com/
 
 https://leungwensen.github.io/svg-icon/#logos
@@ -32,7 +34,8 @@ https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-
 
 git push -u origin main
 
-
+### npm
+https://www.liaoxuefeng.com/wiki/1022910821149312/1023025597810528
 
 
 
