@@ -2,7 +2,6 @@ title: "Lei Liu @ University of Colorado Boulder"
 author: "LEI LIU"
 # description: "University of Colorado Boulder"
 # description: "Made with <b style=\"color: #f45;\">&lt;4</b>"
-description: "<b style=\"color: #f45;\">Lei Liu @ University of Colorado Boulder</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -61,4 +60,7 @@ remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-remote-theme
 
+description: "<b style=\"color: #f45;\">Lei Liu @ University of Colorado Boulder</b>"
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
