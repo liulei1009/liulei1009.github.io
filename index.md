@@ -52,6 +52,4 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
-<span id="busuanzi_container_site_pv">
-  Total Visits =<span id="busuanzi_value_site_pv"></span>times
-</span>
+<span id="busuanzi_container_site_pv">Total Visits =<span id="busuanzi_value_site_pv"></span>times</span>
