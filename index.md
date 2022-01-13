@@ -3,9 +3,6 @@ title: ""
 layout: page
 ---
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
-
 ![](/images/leiliu.png){: style="width: 220px; float: left; margin: 0px  10px"} 
 **Dr. Lei Liu**
 is a Post-Doc Research Associate for the Satellite Navigation and Sensing Laboratory [(SeNSe Lab)](http://gnssrange.com/) at the University of Colorado Boulder. He received his Ph.D. in Geodesy and Geomatics from Wuhan University China in 2020. His current research interests are GNSS ionospheric monitoring, modeling, and forecasting of ionospheric TEC and irregularities using machine learning. See his [CV](https://drive.google.com/file/d/1fmaxUvoSh9hu_4B8x-8H5Laq4L_ZIlft/view?usp=sharing) for more information.
