@@ -57,5 +57,3 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
-<!-- description: "Made with <b style=\"color: #f45;\">&lt;3</b>" -->
-description: "Made with <b style=\"color: #f45;\"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></b>"
