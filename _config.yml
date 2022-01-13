@@ -29,8 +29,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Publications"}
   - {file: "life.md", title: "Life"}
   - {file: "participate.md", title: "Participate"}
-  
-#   <a class="list-group-item" href="#"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Home</a>
 
 # collections
 collections:
