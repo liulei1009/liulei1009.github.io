@@ -63,6 +63,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=WVkh_bMrd094ze67y4-rQyc7uqMiH2mmT_6vgcMXDOA"></script> -->
   
 <!-- 2D Map widget: -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WVkh_bMrd094ze67y4-rQyc7uqMiH2mmT_6vgcMXDOA&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WVkh_bMrd094ze67y4-rQyc7uqMiH2mmT_6vgcMXDOA&cl=ffffff&w=a"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=WVkh_bMrd094ze67y4-rQyc7uqMiH2mmT_6vgcMXDOA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
  
 
