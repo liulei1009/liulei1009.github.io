@@ -1,6 +1,6 @@
 title: "Lei Liu @ University of Colorado Boulder"
 author: "LEI LIU"
-description: "University of Colorado Boulder"
+# description: "University of Colorado Boulder"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -63,7 +63,7 @@ plugins:
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+# <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 description: "Made with <b style=\"color: #f45;\">&lt;<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></b>"
 
