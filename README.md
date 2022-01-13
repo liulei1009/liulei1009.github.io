@@ -6,6 +6,11 @@ Personal website
 
 <!-- https://github.com/gameknife/gkEngine -->
 
+## svg icons
+https://icons.getbootstrap.com/
+
+https://github.com/twbs/icons
+
 ## 卜算子 域名已更改
 https://blog.csdn.net/Wonz5130/article/details/84073835
 
