@@ -42,6 +42,10 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 7 CODE IONEX and DCB: http://ftp.aiub.unibe.ch/CODE/ 
 
+8 Australia Rinex: https://gnss.ga.gov.au/network or ftp.data.gnss.ga.gov.au 
+
+9 New Zealand: https://www.geonet.org.nz/data/types/geodetic or https://data.geonet.org.nz/gnss/
+
 - LEO-based Satellites
 
 <!-- # good softeware; feng zhu -->
