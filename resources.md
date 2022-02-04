@@ -27,6 +27,13 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 - Spire Global: [Spire](https://earthdata.nasa.gov/esds/csdap/commercial-datasets) space weather measurements, such as TEC, ionosphere profiles, and scintillations.
 - CYGNSS
 - Ground-based GNSS Network
+1 igs mgex sp3: ftp://igs.ign.fr/pub/igs/products/mgex/ or ftp://igs.gnsswhu.cn/pub/gps/products/mgex
+2 igs rinex 
+3 igs brdc: ftp://igs.ign.fr/pub/igs/data
+4 US_CORS_Obs_link: ftp://alt.ngs.noaa.gov/cors/rinex/
+5 IGS IGN Rinex: ftp://igs.ign.fr/pub/igs/data/2013/240
+6 IGS WHU Rinex: ftp://igs.gnsswhu.cn/pub/gps/data/daily/
+7 CODE IONEX and DCB: http://ftp.aiub.unibe.ch/CODE/ 
 - LEO-based Satellites
 
 <!-- # good softeware; feng zhu -->
