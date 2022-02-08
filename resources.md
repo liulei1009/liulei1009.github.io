@@ -28,23 +28,25 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 - CYGNSS
 - Ground-based GNSS Network: see also E:\code\C++\link_multi
 
-1 igs mgex sp3: ftp://igs.ign.fr/pub/igs/products/mgex/ or ftp://igs.gnsswhu.cn/pub/gps/products/mgex
+> igs mgex sp3: ftp://igs.ign.fr/pub/igs/products/mgex/ or ftp://igs.gnsswhu.cn/pub/gps/products/mgex
 
-2 igs brdc: ftp://igs.ign.fr/pub/igs/data
+> igs brdc: ftp://igs.ign.fr/pub/igs/data
 
-3 US_CORS_Obs_link: ftp://alt.ngs.noaa.gov/cors/rinex/
+> US_CORS_Obs_link: ftp://alt.ngs.noaa.gov/cors/rinex/
 
-4 IGS IGN Rinex: ftp://igs.ign.fr/pub/igs/data/2013/240
+> IGS IGN Rinex: ftp://igs.ign.fr/pub/igs/data/2013/240
 
-5 Garner Rinex: ftp://garner.ucsd.edu/archive/garner/rinex/
+> Garner Rinex: ftp://garner.ucsd.edu/archive/garner/rinex/
 
-6 IGS WHU Rinex: ftp://igs.gnsswhu.cn/pub/gps/data/daily/
+> IGS WHU Rinex: ftp://igs.gnsswhu.cn/pub/gps/data/daily/
 
-7 CODE IONEX and DCB: http://ftp.aiub.unibe.ch/CODE/ 
+> CODE IONEX and DCB: http://ftp.aiub.unibe.ch/CODE/ 
 
-8 Australia Rinex: https://gnss.ga.gov.au/network or ftp.data.gnss.ga.gov.au 
+> Australia Rinex: https://gnss.ga.gov.au/network or ftp.data.gnss.ga.gov.au 
 
-9 New Zealand: https://www.geonet.org.nz/data/types/geodetic or https://data.geonet.org.nz/gnss/
+> New Zealand: https://www.geonet.org.nz/data/types/geodetic or https://data.geonet.org.nz/gnss/
+
+> EUREF ftp access: ftp://ftp.epncb.oma.be/pub/obs/
 
 - LEO-based Satellites
 
