@@ -48,6 +48,10 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 > EUREF ftp access: ftp://ftp.epncb.oma.be/pub/obs/
 
+> Related GPS Rinex data link (collected by Japan): https://stdb2.isee.nagoya-u.ac.jp/GPS/GPS-TEC/gnss_provider_list.html
+
+> Related GPS Rinex data link (collected by MIT): http://cedar.openmadrigal.org/static/siteSpecific/tec_sources.html
+
 - LEO-based Satellites
 
 <!-- # good softeware; feng zhu -->
