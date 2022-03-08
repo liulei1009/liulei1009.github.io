@@ -54,6 +54,8 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 > CHAIN GPS Rinex and scintillation data link: RINEX data (http://chain.physics.unb.ca/data/gps/data/ or ftp://chain.physics.unb.ca/gps/data/daily/); ismr scintillation(http://chain.physics.unb.ca/data/gps/ismr/)
 
+> UNAVCO GPS network (https://www.unavco.org/data/gps-gnss/file-server/file-server-transition-notice.html): ftp://data-out.unavco.org/pub/ or https://data.unavco.org/archive/gnss/
+
 - LEO-based Satellites
 
 <!-- # good softeware; feng zhu -->
