@@ -52,6 +52,8 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 > Related GPS Rinex data link (collected by MIT): http://cedar.openmadrigal.org/static/siteSpecific/tec_sources.html
 
+> CHAIN GPS Rinex and scintillation data link: RINEX data (http://chain.physics.unb.ca/data/gps/data/ or ftp://chain.physics.unb.ca/gps/data/daily/); ismr scintillation(http://chain.physics.unb.ca/data/gps/ismr/)
+
 - LEO-based Satellites
 
 <!-- # good softeware; feng zhu -->
