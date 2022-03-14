@@ -25,6 +25,7 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 ### Data Access (TO DO)
 - Spire Global: [Spire](https://earthdata.nasa.gov/esds/csdap/commercial-datasets) space weather measurements, such as TEC, ionosphere profiles, and scintillations.
+> Spire data access: https://csdap.earthdata.nasa.gov/
 - CYGNSS
 - Ground-based GNSS Network: see also E:\code\C++\link_multi
 
