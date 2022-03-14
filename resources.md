@@ -61,6 +61,8 @@ Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSB
 
 > UNAVCO GPS network (https://www.unavco.org/data/gps-gnss/file-server/file-server-transition-notice.html): ftp://data-out.unavco.org/pub/ or https://data.unavco.org/archive/gnss/
 
+> BeiDou Satellites status: http://www.csno-tarc.cn/system/constellation
+
 - LEO-based Satellites
 
 <!-- # good softeware; feng zhu -->
