@@ -32,7 +32,7 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 > igs brdc: ftp://igs.ign.fr/pub/igs/data
 
-> US_CORS_Obs_link: ftp://alt.ngs.noaa.gov/cors/rinex/
+> US_CORS_Obs_link: https://www.ngs.noaa.gov/CORS/ or https://geodesy.noaa.gov/corsdata/ or ftp://alt.ngs.noaa.gov/cors/rinex/
 
 > IGS IGN Rinex: ftp://igs.ign.fr/pub/igs/data/2013/240
 
@@ -41,6 +41,11 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 > IGS WHU Rinex: ftp://igs.gnsswhu.cn/pub/gps/data/daily/
 
 > CODE IONEX and DCB: http://ftp.aiub.unibe.ch/CODE/ 
+
+> DCB and OSB connections: the observation-specific biases (OSB) is a more flexible and general way for code bias representation since it can be converted to the traditional differential code bias (DCB) products directly: 
+Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSBs) for the modernized multi-frequency and multi-GNSS signals: an undifferenced and uncombined approach. Journal of Geodesy, 95(8), 1-20.
+
+> mgex OSB/DCB products. CAS: ftp://ftp.gipp.org.cn/product/dcb/ or IGN: ftp://igs.ign.fr//pub/igs/products/mgex/dcb/ or CDDIS: ftp://cddis.gsfc.nasa.gov/pub/gps/products/mgex/dcb/ or CNES http://www.ppp-wizard.net/products/POST_PROCESSED/
 
 > Australia Rinex: https://gnss.ga.gov.au/network or ftp.data.gnss.ga.gov.au 
 
