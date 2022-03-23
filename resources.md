@@ -26,7 +26,9 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 ### Data Access (TO DO)
 - Spire Global: [Spire](https://earthdata.nasa.gov/esds/csdap/commercial-datasets) space weather measurements, such as TEC, ionosphere profiles, and scintillations.
 > Spire data access: https://csdap.earthdata.nasa.gov/
+
 - CYGNSS
+
 - Ground-based GNSS Network: see also E:\code\C++\link_multi
 
 > igs mgex sp3: ftp://igs.ign.fr/pub/igs/products/mgex/ or ftp://igs.gnsswhu.cn/pub/gps/products/mgex
@@ -63,6 +65,10 @@ Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSB
 > UNAVCO GPS network (https://www.unavco.org/data/gps-gnss/file-server/file-server-transition-notice.html): ftp://data-out.unavco.org/pub/ or https://data.unavco.org/archive/gnss/
 
 > BeiDou Satellites status: http://www.csno-tarc.cn/system/constellation
+
+> GNSS calendar: https://webapp.geod.nrcan.gc.ca/geod/tools-outils/calendr.php?locale=en
+
+> NrCan PPP (freely used after logging in): https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php 
 
 - LEO-based Satellites
 
