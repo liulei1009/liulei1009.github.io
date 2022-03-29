@@ -23,7 +23,10 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 - Ionosphere Responses to Severe Weather Events
 
 ## Experience & Education
-#### University of Colorado Boulder, US. &nbsp; 2020.08-Present
+#### University of Colorado Boulder, US. &nbsp; 2022.02-Present
+- **Research Associate** at Aerospace Engineering Sciences Department. &nbsp; Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
+
+#### University of Colorado Boulder, US. &nbsp; 2020.08-2022.01
 - **Post-Doc Research Associate** at Aerospace Engineering Sciences Department. &nbsp; Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 
 #### University of Michigan Ann Arbor, US. &nbsp; 2018.11-2020.08
