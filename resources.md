@@ -29,6 +29,10 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 - CYGNSS
 
+- ICON data
+
+> https://github.com/YJWu-SSL/ICON_Data_Demo or https://icon.ssl.berkeley.edu/Data
+
 - Ground-based GNSS Network: see also E:\code\C++\link_multi
 
 > igs mgex sp3: ftp://igs.ign.fr/pub/igs/products/mgex/ or ftp://igs.gnsswhu.cn/pub/gps/products/mgex
@@ -72,7 +76,7 @@ Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSB
 
 - LEO-based Satellites
 
-<!-- # good softeware; feng zhu -->
+<!-- # good software; feng zhu -->
 
 <!-- ### Websites and Wikis
 
