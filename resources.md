@@ -33,6 +33,11 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 > https://github.com/YJWu-SSL/ICON_Data_Demo or https://icon.ssl.berkeley.edu/Data
 
+- COSMIC and other RO data:
+
+> https://tacc.cwb.gov.tw/v2/en/index.html or https://cdaac-www.cosmic.ucar.edu/cdaac/
+
+
 - Ground-based GNSS Network: see also E:\code\C++\link_multi
 
 > igs mgex sp3: ftp://igs.ign.fr/pub/igs/products/mgex/ or ftp://igs.gnsswhu.cn/pub/gps/products/mgex
@@ -74,7 +79,6 @@ Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSB
 
 > NrCan PPP (freely used after logging in): https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php 
 
-- LEO-based Satellites
 
 <!-- # good software; feng zhu -->
 
