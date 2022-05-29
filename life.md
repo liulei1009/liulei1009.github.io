@@ -10,6 +10,15 @@ categories: media
 ---
 
 <p align = "center">
+<img src = "/images/Deer-Mountain.jpg">
+</p>
+<p align = "center">
+  Hiking at Deer Mountain, Apr 9 2022.
+</p>
+
+---
+
+<p align = "center">
 <img src = "/images/Boulder-creek-view.jpg">
 </p>
 <p align = "center">
@@ -67,7 +76,7 @@ categories: media
 <img src = "/images/Rockey-Mountain.JPG">
 </p>
 <p align = "center">
-  Beatutil View in Estes Park, Rockey Mountain, Jun 26 2021.
+  Beautiful View in Estes Park, Rockey Mountain, Jun 26 2021.
 </p>
 
 ---
