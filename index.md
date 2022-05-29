@@ -48,6 +48,7 @@ is a Post-Doc Research Associate for the Satellite Navigation and Sensing Labora
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - Judge of Outstanding Student Presentation Award (OSPA) in 2021 AGU Fall Meeting
 - Editorial Board Member in GPS Solutions
+- Navigation
 
 ---
 
