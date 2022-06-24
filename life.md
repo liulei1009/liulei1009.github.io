@@ -10,6 +10,15 @@ categories: media
 ---
 
 <p align = "center">
+<img src = "/images/bear-lake.jpg">
+</p>
+<p align = "center">
+  Surprised to see Bear Lake was still covered by snow in May, May 8 2022.
+</p>
+
+---
+
+<p align = "center">
 <img src = "/images/Deer-Mountain.jpg">
 </p>
 <p align = "center">

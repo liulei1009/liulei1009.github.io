@@ -43,11 +43,19 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 
 ## Reviewer
 - GPS Solutions
+
 - Space Weather
+
 - Annales Geophysicae
+
+- IEEE Transactions on Geoscience and Remote Sensing
+
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+
 - Judge of Outstanding Student Presentation Award (OSPA) in 2021 AGU Fall Meeting
+
 - Editorial Board Member in GPS Solutions
+
 - Navigation
 
 ---
