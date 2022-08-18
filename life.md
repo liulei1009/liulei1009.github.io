@@ -10,6 +10,24 @@ categories: media
 ---
 
 <p align = "center">
+<img src = "/images/highland.jpg">
+</p>
+<p align = "center">
+  Hollywood & Highland, LA, Jul 11 2022.
+</p>
+
+---
+
+<p align = "center">
+<img src = "/images/fire_valley.jpg">
+</p>
+<p align = "center">
+  Valley of Fire State Park, NV, Jul 9 2022.
+</p>
+
+---
+
+<p align = "center">
 <img src = "/images/bear-lake.jpg">
 </p>
 <p align = "center">
