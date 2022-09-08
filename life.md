@@ -9,6 +9,14 @@ categories: media
 
 ---
 
+```HTML
+<video width="320" height="240" controls>
+    <source src="/images/camping.MOV" type="video/MOV">
+</video>
+```
+
+---
+
 <p align = "center">
 <img src = "/images/camping.MOV">
 </p>
