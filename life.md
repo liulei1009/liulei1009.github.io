@@ -10,12 +10,12 @@ categories: media
 ---
 
 <video controls>
-    <source src="/images/camping.MOV" type="video/MOV">
+    <source src="/images/camping.MOV">
 </video>
 
 ---
 
-<video src="/images/camping.MOV" controls="controls" width="500" height="300"></video>
+<video src="/images/camping.MOV" controls="controls"></video>
 
 
 ---
