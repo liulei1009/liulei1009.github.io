@@ -58,6 +58,8 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 
 - Navigation
 
+- Remote sensing
+
 ---
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
