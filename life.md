@@ -15,18 +15,12 @@ categories: media
 
 ---
 
-<video src="/images/camping.MOV" controls="controls"></video>
-
-
----
-
-<iframe 
-    width="800" 
-    height="450" 
-    src=""/images/camping.MOV""
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<p align = "center">
+<video src="/images/camping.MOV" controls="controls" width="1000" height="600"></video>
+</p>
+<p align = "center">
+  Camping at Rocky Mountain National Park Glacier Basin Campground on Sept 2 2022.
+</p>
 
 ---
 
