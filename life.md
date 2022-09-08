@@ -17,12 +17,13 @@ categories: media
 
 ---
 
-<p align = "center">
-<img src = "/images/camping.MOV">
-</p>
-<p align = "center">
-  Hollywood & Highland, LA, Jul 11 2022.
-</p>
+<iframe 
+    width="800" 
+    height="450" 
+    src=""/images/camping.MOV""
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 ---
 
