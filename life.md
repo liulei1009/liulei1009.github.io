@@ -9,11 +9,10 @@ categories: media
 
 ---
 
-```HTML
+HTML
 <video width="320" height="240" controls>
     <source src="/images/camping.MOV" type="video/MOV">
 </video>
-```
 
 ---
 
