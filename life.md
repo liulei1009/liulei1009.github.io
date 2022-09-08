@@ -9,12 +9,6 @@ categories: media
 
 ---
 
-<video controls>
-    <source src="/images/camping.MOV">
-</video>
-
----
-
 <p align = "center">
 <video src="/images/camping.MOV" controls="controls" width="1000" height="600"></video>
 </p>
