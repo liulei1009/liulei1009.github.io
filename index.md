@@ -58,7 +58,7 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 
 - Navigation
 
-- Remote sensing
+- Remote Sensing
 
 ---
 
