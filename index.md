@@ -2,7 +2,6 @@
 title: ""
 layout: page
 ---
-```comments: https://github.com/liulei1009/liulei1009.github.io```
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
