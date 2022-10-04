@@ -1,5 +1,5 @@
 ---
-title:  "Lei at al. (2021) ML Prediction of Global Ionospheric TEC maps"
+title:  "Lei at al. (2021) ML Prediction of Global Ionospheric TEC Maps"
 specifics: "paper"
 mathjax: true
 author: 
