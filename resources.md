@@ -54,8 +54,8 @@ GNSS interferometric reflectometry[(GNSS-IR)](https://www.unavco.org/event/2021-
 
 > CODE IONEX and DCB: http://ftp.aiub.unibe.ch/CODE/ 
 
-> DCB and OSB connections: the observation-specific biases (OSB) is a more flexible and general way for code bias representation since it can be converted to the traditional differential code bias (DCB) products directly: 
-Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSBs) for the modernized multi-frequency and multi-GNSS signals: an undifferenced and uncombined approach. Journal of Geodesy, 95(8), 1-20.
+> DCB and OSB connections: the observation-specific biases (OSB) is a more flexible and general way for code bias representation since it can be converted to the traditional differential code bias (DCB) products directly: (1)
+Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSBs) for the modernized multi-frequency and multi-GNSS signals: an undifferenced and uncombined approach. Journal of Geodesy, 95(8), 1-20. (2) Wang, N., Li, Z., Duan, B., Hugentobler, U., & Wang, L. (2020). GPS and GLONASS observable-specific code bias estimation: comparison of solutions from the IGS and MGEX networks. Journal of Geodesy, 94(8), 1-15. https://link.springer.com/article/10.1007/s00190-020-01404-5
 
 > mgex OSB/DCB products. CAS: ftp://ftp.gipp.org.cn/product/dcb/ or IGN: ftp://igs.ign.fr//pub/igs/products/mgex/dcb/ or CDDIS: ftp://cddis.gsfc.nasa.gov/pub/gps/products/mgex/dcb/ or CNES http://www.ppp-wizard.net/products/POST_PROCESSED/
 
