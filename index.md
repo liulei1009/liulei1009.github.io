@@ -60,19 +60,21 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 
 - Remote Sensing
 
+- Geophysical Research Letters
+
 ---
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
 <!--   <p align="center"><strong><a href="participate">Participate in a study</a></strong>  
       |  <strong><a href="people#join-our-team">Join our lab</a></strong></p> -->
 
-  <p align="center">
+<!--   <p align="center">
       <img src= "images/space-weather.png" width="1200" height="600" align="middle"/>
   </p>
   
   <p align="center">
   Credit: NASA
-</p>
+</p> -->
 
 ---
 
