@@ -54,13 +54,15 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 
 - Judge of Outstanding Student Presentation Award (OSPA) in 2021 AGU Fall Meeting 
 
-- Editorial Board Member in GPS Solutions
+- Editorial Board Member in GPS Solutions since 2022
 
 - Navigation
 
 - Remote Sensing
 
 - Geophysical Research Letters
+
+- Editorial Board Member in Journals Frontiers in Astronomy and Space Sciences and Frontiers in Physics since 2023
 
 ---
 
