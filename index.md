@@ -15,7 +15,7 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 ---
 
 ## Research Interests
-- GNSS Ionosphere Monitoring and Modeling
+- GNSS Ionosphere Monitoring and Modelling
 - Space Weather Impacts on GNSS operations
 - Machine Learning Applications in Space Weather
 - Equatorial and Mid-latitude Ionospheric Irregularities/Scintillation
