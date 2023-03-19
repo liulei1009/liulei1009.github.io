@@ -1,4 +1,24 @@
-- title: "ML Prediction of Global Ionospheric TEC Maps"
+- title: "Concentric Traveling Ionospheric Disturbances (CTIDs) Triggered by the 2022 Tonga Volcanic Eruption"
+  image: Pairs3.png
+  description: QQ.
+  authors: Lei Liu, Y. Jade Morton, Pin-Hsuan Cheng, Angel Amores, Corwin J. Wright, Lars Hoffmann
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JA030656
+    display:JGR-space physics (2023)
+  highlight: 1
+  news2: ses QWWWWQQQQQ
+
+- title: "Assessment of storm-time ionospheric electron density measurements from Spire Global CubeSat GNSS radio occultation constellation"
+  image: Pairs3.png
+  description: QQ.
+  authors: Lei Liu and Y. Jade Morton
+  link:
+    url: https://link.springer.com/article/10.1007/s10291-023-01414-8
+    display: GPS Solutions (2023)
+  highlight: 1
+  news2: ses QWWWWQQQQQ
+  
+  - title: "ML Prediction of Global Ionospheric TEC Maps"
   image: Pairs3.png
   description: QQ.
   authors: Lei Liu, Y. Jade Morton, Yunxiang Liu
