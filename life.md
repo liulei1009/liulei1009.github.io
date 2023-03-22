@@ -10,6 +10,15 @@ categories: media
 ---
 
 <p align = "center">
+<img src = "/images/Beacon2022.jpg">
+</p>
+<p align = "center">
+  Beacon Satellite Symposium 2022 held at Boston College on 1-5 August 2022.
+</p>
+
+---
+
+<p align = "center">
 <video src="/images/camping.MOV" controls="controls" width="1000" height="600"></video>
 </p>
 <p align = "center">
