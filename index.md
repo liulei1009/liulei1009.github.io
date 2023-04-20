@@ -64,6 +64,8 @@ is a Research Associate for the Satellite Navigation and Sensing Laboratory [(Se
 
 - Editorial Board Member in Journals Frontiers in Astronomy and Space Sciences and Frontiers in Physics since 2023
 
+- IEEE Transactions on Plasma Science
+
 ---
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
