@@ -8,7 +8,7 @@ layout: page
 
 ![](/images/leiliu.png){: style="width: 220px; float: left; margin: 0px  10px"} 
 **Dr. Lei Liu**
-is a Research Associate at the University of Colorado Boulder. He received his Ph.D. in Geodesy and Geomatics from Wuhan University China in 2020. His current research interests are GNSS ionosphere modeling, GNSS radio occultation, and machine learning in sapce weather. See his [CV](https://drive.google.com/file/d/1fmaxUvoSh9hu_4B8x-8H5Laq4L_ZIlft/view?usp=sharing) for more information.
+is a Research Associate at the University of Colorado Boulder. My current research interests are GNSS ionosphere modeling, GNSS radio occultation, and machine learning in sapce weather. See my [CV](https://drive.google.com/file/d/1fmaxUvoSh9hu_4B8x-8H5Laq4L_ZIlft/view?usp=sharing) for more information.
 
 ##### Picture taken in Aspen, Colorado, Sept 2021
 
@@ -23,10 +23,10 @@ is a Research Associate at the University of Colorado Boulder. He received his P
 - Ionosphere Responses to Severe Weather Events
 
 ## Experience & Education
-#### University of Colorado Boulder, US. &nbsp; 2022.02-Present
+#### University of Colorado Boulder, US. &nbsp; 2023.02-Present
 - **Research Associate** at Aerospace Engineering Sciences Department. &nbsp; Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 
-#### University of Colorado Boulder, US. &nbsp; 2020.08-2022.01
+#### University of Colorado Boulder, US. &nbsp; 2020.08-2023.01
 - **Post-Doc Research Associate** at Aerospace Engineering Sciences Department. &nbsp; Advisor: Prof. [Jade Morton](https://www.colorado.edu/aerospace/jade-morton)
 
 #### University of Michigan Ann Arbor, US. &nbsp; 2018.11-2020.08
@@ -63,6 +63,8 @@ is a Research Associate at the University of Colorado Boulder. He received his P
 - Geophysical Research Letters
 
 - Editorial Board Member in Journals Frontiers in Astronomy and Space Sciences and Frontiers in Physics since 2023
+
+- Journal of Applied Geodesy
 
 - IEEE Transactions on Plasma Science
 
