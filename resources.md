@@ -79,6 +79,12 @@ Liu, T., & Zhang, B. (2021). Estimation of code observation-specific biases (OSB
 
 > NrCan PPP (freely used after logging in): https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php 
 
+> GPS L1 navigation data bit: isdcftp.gfz-potsdam.de/gnss/GNSS-GPS-1-NAVBIT
+
+> MGEX (CAS, DLR) DCB: https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/gnss_differential_code_bias_product.html and https://cddis.nasa.gov/archive/gnss/products/bias/
+
+> MGEX CAS DCB also available from: CAS: ftp://ftp.gipp.org.cn/product/dcb/  IGN: ftp://igs.ign.fr//pub/igs/products/mgex/dcb/  CDDIS: ftp://cddis.gsfc.nasa.gov/pub/gps/products/mgex/dcb/  
+
 
 <!-- # good software; feng zhu -->
 
