@@ -68,6 +68,8 @@ is a Research Associate at the University of Colorado Boulder. My current resear
 
 - IEEE Transactions on Plasma Science
 
+- IEEE Transactions on Aerospace and Electronic Systems
+
 ---
 
   <p align="center"><strong>We'd love for you to be a part of our work.</strong></p>
