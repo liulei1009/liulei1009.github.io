@@ -32,14 +32,8 @@ is a Research Associate at the University of Colorado Boulder. My current resear
 #### University of Michigan Ann Arbor, US. &nbsp; 2018.11-2020.08
 - **Visiting Ph.D. Student** at Department of Climate and Space Sciences and Engineering. &nbsp; Advisor: Prof. [Shasha Zou](https://zou.engin.umich.edu/)
 
-#### Wuhan University, China. &nbsp; 2017.09-2020.06
-- **Ph.D.** in Space Geodesy and Geomatics. &nbsp; Advisor:  Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
-
-#### Wuhan University, China. &nbsp; 2014.09-2017.06
-- **M.S.** in Space Geodesy and Geomatics. &nbsp; Advisor:  Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
-
-#### Central South University of Forestry and Technology, China. &nbsp; 2010.09-2014.06
-- **B.S.** in Surveying and Mapping.
+#### Wuhan University, China. &nbsp; 2014.09-2020.06
+- **M.S.** and **Ph.D.** in Space Geodesy and Geomatics. &nbsp; Advisor:  Prof. [Yibin Yao](http://ybyao.users.sgg.whu.edu.cn/)
 
 ## Reviewer
 - GPS Solutions
